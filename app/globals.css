@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+  --color-cream: #f7f3ee;
+  --color-beige: #ede4d8;
+  --color-sand: #d5c5b3;
+  --color-espresso: #4a2c1d;
+  --color-espresso-hover: #361f14;
+  --color-caramel: #8c6249;
+  --color-ivory: #fcfbf9;
+
+  --font-serif: var(--font-cormorant), Georgia, serif;
+  --font-sans: var(--font-jakarta), "Plus Jakarta Sans", sans-serif;
+}
+
+.storyboard-arch {
+  border-radius: 160px 160px 24px 24px;
+}
